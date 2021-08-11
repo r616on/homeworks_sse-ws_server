@@ -1,1 +1,1 @@
-[ссылка на heroku](https://homeworks-ahj-tickets.herokuapp.com/)
+[ссылка на heroku](https://ahj-homeworks-sse.herokuapp.com/)
