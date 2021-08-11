@@ -21,15 +21,16 @@
     "koa-body": "^4.2.0",
     "koa-router": "^10.0.0",
     "moment": "^2.29.1",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "ws": "^8.0.0"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r616on/womeworks_http-server.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/r616on/womeworks_http-server/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/r616on/womeworks_http-server#readme"
+  "homepage": ""
 }
